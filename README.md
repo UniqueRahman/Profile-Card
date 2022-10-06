@@ -1,3 +1,3 @@
 # Profile-Card
-Github profile-card
+Github profile-card.
     I am a front end UI-developer
